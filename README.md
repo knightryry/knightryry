@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>Hello! I am learning java and just trying to experiment with code. </p>
+  <p>Enjoy Your Stay!</p>
+  <p> :>
+</p>
+
+Projects im working on:
+<p>KNGClient</p> 
+
+A few unity games.
+
+Thats really it!
