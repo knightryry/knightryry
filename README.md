@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Hello! I am learning java and just trying to experiment with code. </p>
+<p>Hey There! Im just a random teen on the internet that can somehow code and plays minecraft. </p>
+<p>FUN FACT! I'm 13 Y/o!</p>
   <p>Enjoy Your Stay!</p>
   <p> :>
 </p>
 
 Projects im working on:
 <p>KNGClient</p> 
+<a href="help.mshelp.tk">MSHelp</p>
 
 A few unity games.
 
