@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Hey There! Im just a random teen on the internet that can somehow code and plays minecraft. </p>
-<p>FUN FACT! I'm 13 Y/o!</p>
-  <p>Enjoy Your Stay!</p>
-  <p> :>
-</p>
+<p>Hey There! Im just a random furry on the internet that can somehow script and code.</p>
+<p>Enjoy Your Stay!</p>
+<p> :3 </p>
 
 Projects im working on:
 <p>KNGClient</p> 
