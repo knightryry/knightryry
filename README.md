@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Projects im working on:
 <p>KNGClient</p> 
-<a href="help.mshelp.tk">MSHelp</p>
+<a href="https://help.mshelp.tk">MSHelp</a>
 
 A few unity games.
 
